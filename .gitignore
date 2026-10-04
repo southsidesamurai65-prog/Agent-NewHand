@@ -1,0 +1,15 @@
+# 本地 AI 助手工具目录（含 node_modules，体积大，不提交）
+.opencode/
+
+# 依赖
+node_modules/
+
+# 日志与临时文件
+*.log
+error.log
+*.tmp
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
