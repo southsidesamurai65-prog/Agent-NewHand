@@ -84,8 +84,34 @@
 > 想快速把 ⬜ 的图补齐，可以在装好对应工具后，按顺序照做教程、随手截图，文件名对上即可。
 > 暂时没截的图，GitHub 上会显示成裂图或替代文字，不影响阅读。
 
+## 四、Claude Code 篇（claude.md）
+
+| 状态 | 文件名 | 内容 | 章节 |
+| --- | --- | --- | --- |
+| ✅ | `cc-tui-overview.png` | Claude Code 主界面（版本/模型/目录/输入框，官方 demo.gif 抽帧） | 第 3 章 |
+| ✅ | `cc-thinking.png` | 思考过程与实时进度（官方） | 第 4 章 |
+| ✅ | `cc-tools.png` | Read/Search 等工具调用（官方） | 第 4 章 |
+| ✅ | `cc-ide.png` | VS Code 里的 Claude Code 扩展（官方） | 第 17 章 |
+| ⬜ | `cc-version.png` | `claude --version` 或 `claude doctor` | 第 2 章 |
+| ⬜ | `cc-login.png` | 首次启动的浏览器登录/授权画面 | 第 3 章 |
+| ⬜ | `cc-commands.png` | 输入 `/` 后弹出的命令列表 | 第 4 章 |
+| ⬜ | `cc-image.png` | 粘贴图片后消息里出现图片附件 | 第 4、15 章 |
+| ⬜ | `cc-plan.png` | 计划模式只给方案、不改文件 | 第 6 章 |
+| ⬜ | `cc-permissions.png` | `/permissions` 或权限确认弹窗 | 第 6 章 |
+| ⬜ | `cc-rewind.png` | `/rewind` 的检查点列表 | 第 7 章 |
+| ⬜ | `cc-custom-command.png` | 触发自定义命令 `/optimize` | 第 9 章 |
+| ⬜ | `cc-subagent.png` | `/agents` 或子代理工作画面 | 第 10 章 |
+| ⬜ | `cc-config.png` | `/config` 或 `settings.json` | 第 12 章 |
+| ⬜ | `cc-mcp.png` | `/mcp` 列表 | 第 13 章 |
+| ⬜ | `cc-hooks.png` | `/hooks` 配置界面 | 第 14 章 |
+| ⬜ | `cc-review.png` | `/review` 的审查结果 | 第 15 章 |
+| ⬜ | `cc-headless.png` | `claude -p` 的输出 | 第 16 章 |
+| ⬜ | `cc-final-todo.png` | 实战做出的待办网页 | 第 19 章 |
+| ⬜ | `cc-final-todo-code.png` | 实战项目文件列表 | 第 19 章 |
+
 ## 素材来源
 
+- **Claude Code 官方素材**：`cc-tui-overview.png`、`cc-thinking.png`、`cc-tools.png`（取自官方仓库 `anthropics/claude-code` 的 `demo.gif` 抽帧）、`cc-ide.png`（取自官方文档 `code.claude.com`）。
 - **OpenCode 官方素材**：`03-tui-welcome.png`、`10-tui-overview.png`、`27*.png`、`30-github-agent.png`，取自 OpenCode 官方仓库/文档（`anomalyco/opencode`），窗口为 macOS 风格，界面内容与 Windows/WSL 相同。
 - **Codex 官方素材**：`cx-tui-overview.png`、`cx-review.png`、`cx-ide.png`，取自 OpenAI 官方仓库/文档（`openai/codex`、`developers.openai.com`）。
 - **Wikimedia Commons（公有领域）**：`01-terminal-open.png`（作者 Microsoft）、`02-ls-result.png`（作者 Loadmaster）。可自由使用，此处标注作者以示尊重。

@@ -13,3 +13,7 @@ error.log
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# 隐藏内容
+clash.md
+assets/cl-*.png

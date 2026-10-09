@@ -11,6 +11,7 @@
 | 📖 [共用基础篇](basics.md) | 终端、命令、路径、Git、Token、API Key 等基础概念 | **建议先读**，三篇通用 |
 | 🟣 [OpenCode 图文教程](opencode.md) | 开源跨平台的 AI 编程助手：安装、连接模型、Plan/Build、`/undo`、AGENTS.md、自定义命令、网页版、实战待办网页 | 想用开源工具、或想省 API 费用 |
 | ⚫ [Codex 图文教程](codex.md) | OpenAI Codex CLI：安装、ChatGPT 账号登录、`/plan`、审批模式、`/review` 代码审查、Skills、`codex exec`、实战待办网页 | 有 ChatGPT 账号、想要代码审查 |
+| 🅰️ [Claude Code 图文教程](claude.md) | Anthropic Claude Code：安装、Claude 账号登录、计划模式、权限、`/rewind` 检查点、CLAUDE.md、自定义命令、子代理、MCP、`claude -p`、实战待办网页 | 有 Claude 订阅、想要成熟的终端助手 |
 
 ## 怎么读
 
